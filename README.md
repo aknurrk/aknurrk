@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Aknur**, a **Statistics (Analytics)** graduate student who enjoys turning data into clear models and decisions.
+I am **Aknur**, a **Statistics (Analytics)** graduate student passionate about turning data into clear models and informed decisions.
 
 👩‍🏫 I’m currently pursuing an **M.S. in Statistics (Analytics)** at the **University of Illinois Urbana-Champaign**, and I previously earned a **B.S. in Mathematics with Magna Cum Laude honours**.
 
