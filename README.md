@@ -2,9 +2,10 @@
 
 I am **Aknur**, a **Statistics (Analytics)** graduate student passionate about turning data into clear models and informed decisions.
 
-👩‍🏫 I’m currently pursuing an **M.S. in Statistics (Analytics)** at the **University of Illinois Urbana-Champaign**, and I previously earned a **B.S. in Mathematics with Magna Cum Laude honours**.
+👩‍🏫 I’m a **M.S. Statistics (Analytics)** candidate at the **University of Illinois Urbana-Champaign** with 3+ years building forecasting and ML models across actuarial and
+credit risk. I previously earned a **B.S. in Mathematics with Magna Cum Laude honours**.
 
-💼 I’ve worked across **research, analytics, and technical support**: building forecasting models, developing credit-risk forecasting/classification frameworks, and supporting faculty/students through technical troubleshooting.
+💼 I’ve worked across **research, analytics, and technical support**: building forecasting models, developing credit-risk forecasting/classification frameworks, and supporting faculty/students through technical troubleshooting. 
 
 🤩 I’m passionate about **forecasting, machine learning, and applied statistics**, especially when the results can inform real-world planning, policy, or business decisions. I’m also enthusiastic about **making education accessible** and **women’s empowerment in STEM**.
 
