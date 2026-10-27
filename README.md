@@ -1,7 +1,5 @@
 # Hi, I'm Aknur 👋
 
-🎓 **M.S. Statistics (Analytics) @ University of Illinois Urbana-Champaign**
-
 📊 **Market Analytics | Data Science | Predictive Modeling | Business Analytics**
 
 I'm a Statistics graduate student at UIUC, graduating in **May 2027**, with experience in insurance analytics, credit-risk forecasting, statistical modeling, and machine learning.
