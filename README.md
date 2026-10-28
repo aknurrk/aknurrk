@@ -40,7 +40,9 @@ Analyzed how customer reviews, ratings, local competition, and business characte
 
 I'm interested in making education more accessible and supporting women in STEM. Outside of work, I enjoy walking and learning languages.
 
-🌍 **Languages:** English, Kazakh, Russian, German (A2), Turkish (beginner)
+🌍 Languages: **English, German, Russian, Turkish, Kazakh**
+
+🎉 Fun facts: I grew up with a cat 🐈 and studied at an arts school for 5 years 🎨
 
 ### 📬 Let's Connect
 
@@ -49,7 +51,5 @@ I'm open to **2027 graduate and entry-level opportunities** in Data Analytics, D
 - 💼 [LinkedIn](https://www.linkedin.com/in/aknurk/)
 - 📧 [Email](mailto:aknurkalilaeva@gmail.com)
   
-🌍 Languages: **English, German, Russian, Turkish, Kazakh**
 
-🎉 Fun facts: I grew up with a cat 🐈 and studied at an arts school for 5 years 🎨
 
