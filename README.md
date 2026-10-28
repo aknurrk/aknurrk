@@ -1,4 +1,4 @@
-# Hi, I'm Aknur 👋
+### Hi, I'm Aknur 👋
 
 📊 **Market Analytics | Data Science | Predictive Modeling | Business Analytics**
 
