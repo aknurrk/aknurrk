@@ -9,15 +9,15 @@ I've worked on projects ranging from improving risk-scoring models at **COUNTRY 
 
 ### 🏆 Achievements
 
-🥇 **1st Place — COUNTRY Financial Tech Hackathon** (23 teams, 133 participants)
+🥇 **1st Place COUNTRY Financial Tech Hackathon** (23 teams, 133 participants)
 
 Proposed **AI Assist**, a proactive advisory tool that combines predictive models, policy data, and business information to recommend customer retention and sales actions.
 
-🥇 **1st Place — COUNTRY Financial Intern Case Study Competition** (15 teams)
+🥇 **1st Place COUNTRY Financial Intern Case Study Competition** (15 teams)
 
 Proposed a gamified employee learning platform with automated mentor–mentee matching. Worked with a team to develop the concept, prototype, and final presentation.
 
-🎓 **B.S. Mathematics, Magna Cum Laude** — Nazarbayev University, ranked **2nd out of 93 students**.
+🎓 **B.S. Mathematics, Magna Cum Laude** Nazarbayev University, ranked **2nd out of 93 students**.
 
 ### 💻 Featured Project
 
